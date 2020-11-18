@@ -286,7 +286,7 @@ main {
 }
 .footer {
   background: #363636;
-  width: 1600px;
+  width: auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: normal;
