@@ -264,6 +264,9 @@ main {
 
 .RTGS {
   background: url(images/Image\ Overlay.png);
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
