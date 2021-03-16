@@ -34,10 +34,6 @@ button {
   outline:none;
   overflow: visible;  
 }
-button:active {
-  box-shadow: 1px 1px 1px 1px #ff0162;
-}
-
 
 header {
   background: url(images/headerfon.png);
